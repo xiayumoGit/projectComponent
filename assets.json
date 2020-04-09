@@ -1,14 +1,14 @@
 {
-  "vendors.css": "/static/css/vendors.ebff297fdabbceb0e0b1.css",
-  "vendors.js": "/static/js/vendors.e199c41b.js",
-  "app.js": "/static/js/app.ebff297fdabbceb0e0b1.js",
-  "how-to-create-component.js": "/static/js/how-to-create-component.540de6dc.js",
-  "join-us.js": "/static/js/join-us.f0d2b1ff.js",
-  "src-confirm-button-confirm-button.css": "/static/css/src-confirm-button-confirm-button.ebff297fdabbceb0e0b1.css",
-  "src-confirm-button-confirm-button.js": "/static/js/src-confirm-button-confirm-button.cdc9fca2.js",
-  "src-id-card-link-id-card-linkl.js": "/static/js/src-id-card-link-id-card-linkl.f222f751.js",
-  "src-index.js": "/static/js/src-index.b431a5ab.js",
-  "src-limit-upload-limit-upload.js": "/static/js/src-limit-upload-limit-upload.53d145d0.js",
-  "src-search-table-search-table.js": "/static/js/src-search-table-search-table.f641901f.js",
-  "index.html": "/index.html"
+  "vendors.css": "/projectComponent/static/css/vendors.d90a1720c53119501d64.css",
+  "vendors.js": "/projectComponent/static/js/vendors.c026e556.js",
+  "app.js": "/projectComponent/static/js/app.d90a1720c53119501d64.js",
+  "how-to-create-component.js": "/projectComponent/static/js/how-to-create-component.540de6dc.js",
+  "join-us.js": "/projectComponent/static/js/join-us.f0d2b1ff.js",
+  "src-confirm-button-confirm-button.css": "/projectComponent/static/css/src-confirm-button-confirm-button.d90a1720c53119501d64.css",
+  "src-confirm-button-confirm-button.js": "/projectComponent/static/js/src-confirm-button-confirm-button.cdc9fca2.js",
+  "src-id-card-link-id-card-linkl.js": "/projectComponent/static/js/src-id-card-link-id-card-linkl.f222f751.js",
+  "src-index.js": "/projectComponent/static/js/src-index.b431a5ab.js",
+  "src-limit-upload-limit-upload.js": "/projectComponent/static/js/src-limit-upload-limit-upload.53d145d0.js",
+  "src-search-table-search-table.js": "/projectComponent/static/js/src-search-table-search-table.f641901f.js",
+  "index.html": "/projectComponent/index.html"
 }
