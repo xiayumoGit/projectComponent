@@ -1,13 +1,13 @@
 {
-  "vendors.css": "/static/css/vendors.f80d89bbed61c1fff82b.css",
-  "vendors.js": "/static/js/vendors.e4bb728b.js",
-  "app.js": "/static/js/app.f80d89bbed61c1fff82b.js",
-  "how-to-create-component.js": "/static/js/how-to-create-component.540de6dc.js",
-  "join-us.js": "/static/js/join-us.f0d2b1ff.js",
-  "src-confirm-button-confirm-button.css": "/static/css/src-confirm-button-confirm-button.f80d89bbed61c1fff82b.css",
-  "src-confirm-button-confirm-button.js": "/static/js/src-confirm-button-confirm-button.cdc9fca2.js",
-  "src-index.js": "/static/js/src-index.d539858d.js",
-  "src-limit-upload-limit-upload.js": "/static/js/src-limit-upload-limit-upload.739a3bdb.js",
-  "src-search-table-search-table.js": "/static/js/src-search-table-search-table.343af825.js",
-  "index.html": "/index.html"
+  "vendors.css": "/fb-project-component/static/css/vendors.adb8be170922d43edca0.css",
+  "vendors.js": "/fb-project-component/static/js/vendors.dbc047d1.js",
+  "app.js": "/fb-project-component/static/js/app.adb8be170922d43edca0.js",
+  "how-to-create-component.js": "/fb-project-component/static/js/how-to-create-component.540de6dc.js",
+  "join-us.js": "/fb-project-component/static/js/join-us.f0d2b1ff.js",
+  "src-confirm-button-confirm-button.css": "/fb-project-component/static/css/src-confirm-button-confirm-button.adb8be170922d43edca0.css",
+  "src-confirm-button-confirm-button.js": "/fb-project-component/static/js/src-confirm-button-confirm-button.cdc9fca2.js",
+  "src-index.js": "/fb-project-component/static/js/src-index.d539858d.js",
+  "src-limit-upload-limit-upload.js": "/fb-project-component/static/js/src-limit-upload-limit-upload.739a3bdb.js",
+  "src-search-table-search-table.js": "/fb-project-component/static/js/src-search-table-search-table.343af825.js",
+  "index.html": "/fb-project-component/index.html"
 }
