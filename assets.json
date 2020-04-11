@@ -1,14 +1,14 @@
 {
-  "vendors.css": "/projectComponent/static/css/vendors.d90a1720c53119501d64.css",
-  "vendors.js": "/projectComponent/static/js/vendors.c026e556.js",
-  "app.js": "/projectComponent/static/js/app.d90a1720c53119501d64.js",
+  "vendors.css": "/projectComponent/static/css/vendors.20cc63b3889813ea0850.css",
+  "vendors.js": "/projectComponent/static/js/vendors.810140e2.js",
+  "app.js": "/projectComponent/static/js/app.20cc63b3889813ea0850.js",
   "how-to-create-component.js": "/projectComponent/static/js/how-to-create-component.540de6dc.js",
   "join-us.js": "/projectComponent/static/js/join-us.f0d2b1ff.js",
-  "src-confirm-button-confirm-button.css": "/projectComponent/static/css/src-confirm-button-confirm-button.d90a1720c53119501d64.css",
-  "src-confirm-button-confirm-button.js": "/projectComponent/static/js/src-confirm-button-confirm-button.cdc9fca2.js",
-  "src-id-card-link-id-card-linkl.js": "/projectComponent/static/js/src-id-card-link-id-card-linkl.f222f751.js",
+  "src-confirm-button-confirm-button.css": "/projectComponent/static/css/src-confirm-button-confirm-button.20cc63b3889813ea0850.css",
+  "src-confirm-button-confirm-button.js": "/projectComponent/static/js/src-confirm-button-confirm-button.869860e9.js",
+  "src-id-card-input-id-card-input.js": "/projectComponent/static/js/src-id-card-input-id-card-input.5779af04.js",
   "src-index.js": "/projectComponent/static/js/src-index.b431a5ab.js",
-  "src-limit-upload-limit-upload.js": "/projectComponent/static/js/src-limit-upload-limit-upload.53d145d0.js",
-  "src-search-table-search-table.js": "/projectComponent/static/js/src-search-table-search-table.f641901f.js",
+  "src-limit-upload-limit-upload.js": "/projectComponent/static/js/src-limit-upload-limit-upload.e0d06820.js",
+  "src-search-table-search-table.js": "/projectComponent/static/js/src-search-table-search-table.6b714f94.js",
   "index.html": "/projectComponent/index.html"
 }
